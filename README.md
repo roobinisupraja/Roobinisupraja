@@ -41,6 +41,25 @@ I'm an AI/ML Engineer passionate about building practical AI solutions across Fi
 
 **Cloud & Tools:** AWS, Linux, Git, CI/CD, LangSmith, Weights & Biases
 
+
+### 💻 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgres,aws,git,linux,github,tensorflow,pytorch" />
+</p>
+
+### 🤖 AI & GenAI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 1. Agentic AI Loan Processing System
